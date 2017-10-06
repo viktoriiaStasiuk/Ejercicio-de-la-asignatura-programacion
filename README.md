@@ -1,1 +1,28 @@
-# Ejercicio-de-la-asignatura-programacion
+# ejercicios_programacion
+
+Ejercicios de **programacion** de 1º de DAW
+
+*Este texto está en cursiva*
+
+**Este en negrita**
+
+***Y este otro en negrita y cursiva***
+
+Puedes ejecturar el programa mediante el comando `java`:
+
+```console
+java HolaMundo
+```
+
+
+## Qué se estudia en programación
+
+* Lenguaje de programación Java
+* Comandos de Linux
+* Git y Github
+
+## gato aleatorio
+
+<img src="Imagenes/indice.jpeg" width="240px">
+
+[fuente de la imagen](https://www.anipedia.net/imagenes/videos-gatos.jpg)
