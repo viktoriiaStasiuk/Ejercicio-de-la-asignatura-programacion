@@ -25,4 +25,3 @@ java HolaMundo
 
 <img src="Imagenes/aprendejava200.jpeg" width="240px">
 
-[fuente de la imagen](https://www.anipedia.net/imagenes/videos-gatos.jpg)
