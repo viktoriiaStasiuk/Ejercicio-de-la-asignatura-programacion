@@ -1,5 +1,6 @@
-/**
- *14.Realiza un programa que diga si un número introducido por teclado
+
+ /**
+ * 14.Realiza un programa que diga si un número introducido por teclado
  *es par y/o divisible entre 5.
  *
  * @author Luis José Sánchez
